@@ -1,8 +1,7 @@
 grammar grammarCsharp;
 
-/*jorge franco iba�ez
-kevin julio marquez
-anglel jimenes escobar*/
+/*Jorge Carlos Alberto Franco Ibañez*/
+
 declarar:	variable | operations EOF!;
 
 expresion
