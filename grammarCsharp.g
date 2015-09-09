@@ -1,4 +1,4 @@
-grammar intento1;
+grammar grammarCsharp;
 
 /*jorge franco iba�ez
 kevin julio marquez
