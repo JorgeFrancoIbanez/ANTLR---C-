@@ -2,9 +2,7 @@ grammar pave2;
 
 
 
-/*jorge franco iba�ez
-kevin julio marquez
-anglel jimenes escobar*/
+/*jorge franco iba�ez*/
 
 //declara si es una variable una operacion (asignacion, igualacion) , sentencias
 declarar:	variable | operations | sentence EOF!;  
